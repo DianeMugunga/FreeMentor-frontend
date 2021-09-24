@@ -1,0 +1,57 @@
+[
+    {
+        "password": "12345@@@",
+        "role": "mentor",
+        "status": "active",
+        "_id": "611e9736b371f41dec2ddcbb",
+        "firstName": "Kayonga",
+        "lastName": "ishimwe",
+        "email": "ishimwe@gmail.com",
+        "phone": "+250782592566",
+        "statusPicture":"",
+        "gender": "female",
+        "age": 29,
+        "__v": 0
+    },
+    {
+        "password": "12345@@@",
+        "role": "mentor",
+        "statusPicture":"https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+        "_id": "61044fc04168cd811b4e966b",
+        "firstName": "Diane",
+        "lastName": "amandine",
+        "email": "amandoi@gmil.com",
+        "phone": "+250787884567",
+        "gender": "female",
+        "age": 29,
+        "__v": 0
+    },
+    {
+        "password": "12345@@@",
+        "role": "mentor",
+        "status": "active",
+        "_id": "61045df40c8bd9783cf94a00",
+        "firstName": "ishimwe",
+        "lastName": "Aline",
+        "email": "reine@gmail.com",
+        "statusPicture":"https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+        "phone": "25078787388",
+        "gender": "female",
+        "age": 154,
+        "__v": 0
+    },
+    {
+        "password": "12345@Abcd",
+        "role": "mentor",
+        "status": "active",
+        "_id": "610846596f30d9bab98296d4",
+        "firstName": "Mugunga",
+        "statusPicture":"https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+        "lastName": "marie",
+        "email": "mentor@mentor.com",
+        "phone": "+250787878788",
+        "gender": "female",
+        "age": 19,
+        "__v": 0
+    }
+]
