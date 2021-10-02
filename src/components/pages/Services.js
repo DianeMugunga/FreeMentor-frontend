@@ -7,7 +7,6 @@ const services = () => {
 
   return (
     <>
-      ReactDOM.render(
       <Result
         status="warning"
         title="Sorry!!! this page is under maintanance."
